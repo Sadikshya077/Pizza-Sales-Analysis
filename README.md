@@ -150,6 +150,7 @@ pizza-sales-analysis/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
+```
 
 ## 📄 Documentation
 
@@ -157,7 +158,7 @@ The original Business Requirements Document is available in:
 
 ```text
 docs/Business_Requirements_Document.docx
-
+```
 ## 👤 Author
 
 **Sadikshya Adhikari**
